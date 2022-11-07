@@ -29,7 +29,7 @@ const Gallery = () => {
                             <img src="gambar/pengantin/8.jpg" alt="photos-5" />
                         </div>
                         <div className="image">
-                            <img src="gambar/pengantin/10.jpg" alt="photos-6" />
+                            <img src="gambar/pengantin/S&N-10.jpg" alt="photos-6" />
                         </div>
                        
                     </ImagesContainer>
