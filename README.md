@@ -1,28 +1,23 @@
-jadian 9 apr 2016
+1. Calon Mempelai Wanita   
+    a. Nama Lengkap   : Sarah savitri
+    b. Nama Panggilan   : sarah
+    c. Nama Lengkap Ayah   : Suhardi
+    d. Nama Lengkap Ibu   : Wiwin salwinah
+    e. Alamat Orang Tua ( Ayah & Ibu )   : Kp.ciakar hilir RT 001/04 Cicalengka Pagedangan kab.tangerang
 
-temen mts,  bertemu kembali setelah reuni ang 2015,
-mulai komunikasi, 
+2. Calon Mempelai Pria   
+    a. Nama Lengkap   : Nana permana
+    b. Nama Panggilan   : Nana
+    c. Nama Lengkap Ayah   : khaerudin
+    d. Nama Lengkap Ibu   : Amriyah
+    e. Alamat Orang Tua ( Ayah & Ibu )   : Kp Cibadak RT 002/002 suradita,Cisauk kab. Tangerang
 
-lamaran 16 okto 2022
-akad tanggal 6 november 2022
+3. AKAD NIKAH   
+    a. Hari, Tanggal   : Minggu,20 November 2022
+    b. Jam   : 09.00 wib
+    c. Tempat   : kediaman mempelai wanita
 
-
-Arip susanto anak ke dari 4 
-- Sutarjo
-- Rossi
-
-Fitri handayani anak ke 4 dari 5
-- Rohmat
-- Nailah
-
-nikah di kp baru
-
-fitur 
-- header
-- cerita
-- gallery
-- lokasi
-- no rek
-- comment
-
-- lagu virgoun ( surat cinta untuk starla )
+4. RESEPSI   
+    a. Hari, Tanggal   : 20, November 2022 
+    b. Jam   : 10.00 wib - selesai
+    c. Tempat   : kediaman mempelai wanita
